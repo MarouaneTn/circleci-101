@@ -1,0 +1,24 @@
+{
+  "name": "cercleci-101",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "First Last <first.last@example.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarouaneTn/circleci-101.git"
+  },
+  "author": "marouane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarouaneTn/circleci-101/issues"
+  },
+  "homepage": "https://github.com/MarouaneTn/circleci-101#readme"
+}
